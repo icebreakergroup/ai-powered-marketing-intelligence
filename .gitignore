@@ -1,0 +1,21 @@
+# Local environment files
+.env
+.env.*
+*.log
+.DS_Store
+
+# Credentials and secrets
+credentials.json
+secrets.json
+service-account.json
+*.pem
+*.key
+
+# Local tooling
+node_modules/
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
